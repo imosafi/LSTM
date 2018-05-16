@@ -1,0 +1,1 @@
+{"training_data_path": "data/training_data.txt", "testing_data_path": "data/testing_data.txt", "cleaned_training_data_path": "data/cleaned_training_data.txt", "cleaned_testing_data_path": "data/cleaned_testing_data.txt", "load_trained_model": true, "trained_model_path": "data/model/model.ckpt"}
